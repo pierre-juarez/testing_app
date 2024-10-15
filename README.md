@@ -46,7 +46,7 @@ Para ejecutar las pruebas, utilice los siguientes comandos:
 
 ## Presentación
 
-![Descripción de la presentación](./src/assets/presentation.png?raw=true "Presentation") <!-- Asegúrate de reemplazar la ruta de la imagen con la correcta -->
+![Descripción de la presentación](./lib/assets/presentation.png?raw=true "Presentation") <!-- Asegúrate de reemplazar la ruta de la imagen con la correcta -->
 
 ## Contribuciones
 
@@ -58,11 +58,6 @@ Si deseas contribuir a este proyecto, por favor sigue estos pasos:
 4. Sube tus cambios (`git push origin feature/nueva-caracteristica`).
 5. Abre un Pull Request.
 
-
-
-
 ## Créditos
 
 ⌨️ Desarrollado con ♥️ por [Pierre Juarez](https://www.linkedin.com/in/pierre-juarez/) 😊
-
-
